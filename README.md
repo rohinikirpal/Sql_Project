@@ -1,5 +1,5 @@
 # SQL PROJECT BOOK SALES ANALYSIS
-![Beige Minimal Professional Business Project Presentation](https://github.com/rohinikirpal/Sql_Project/assets/167945174/74d1b1d9-86e6-4bc7-ae17-54d5a45e6244)
+![front](https://github.com/rohinikirpal/Sql_Project/assets/167945174/397e5fa5-eea8-4e2d-852b-88c0e35eb9e5)
 
 
 
