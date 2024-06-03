@@ -1,8 +1,4 @@
 
-drop table customer
-drop table  book_details
-drop table  sale
-
 CREATE TABLE customer (
     Customer_ID varchar PRIMARY KEY,
 	User_ID INT,
