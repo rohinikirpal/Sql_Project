@@ -1,0 +1,401 @@
+customer_id,user_id,age,gender,state,country,pincode
+401,276725,30,M,California,USA,90001
+2,276725,61,M, yukon territory, russia,10001
+3,276726,26,F, v.n.gaia, portugal,90001
+4,276727,14,M, hants, united kingdom,60601
+5,276729,26,F, california, usa,19101
+6,276729,25,F, dc, usa,78201
+7,276733,19,M, ontario, canada,92101
+8,276736,46,F, tennessee, usa,73301
+9,276737,19,M, wisconsin, spain,32099
+10,276744,55,F, victoria, australia,94101
+11,276745,32,M, california, usa,98101
+12,276746,24,F, barcelona, spain,80201
+13,276746,19,M, iowa, usa,20001
+14,276746,24,F, alberta, canada,28201
+15,276746,20,F, new mexico, usa,73301
+16,276746,34,M, virginia, usa,32099
+17,276746,17,F, rio de janeiro, brazil,98101
+18,276747,24,M, rio de janeiro, brazil,80201
+19,276747,23,F, pennsylvania, usa,20001
+20,276747,34,M, alabama, spain,28201
+21,276747,32,M, thueringen, germany,73301
+22,276747,14,F, pennsylvania, usa,32099
+23,276747,17,M, nrw, germany,19101
+24,276747,51,F, california, usa,78201
+25,276747,31,M, washington, usa,92101
+26,276748,21,F, illinois, usa,98101
+27,276748,17,M, baden-wuerttemberg, germany,80201
+28,276751,34,F, alabama, mexico,20001
+29,276751,44,M, alaska, usa,28201
+30,276754,24,F, n/a, china,73301
+31,276755,23,M, oregon, usa,32099
+32,276760,30,F, california, usa,19101
+33,276762,57,F, england, united kingdom,78201
+34,276762,32,M, wisconsin, usa,92101
+35,276762,30,F, quebec, canada,97201
+36,276762,43,M, quebec, spain,33101
+37,276762,44,F, lazio, italy,78201
+38,276762,24,M, north carolina, usa,60601
+39,276762,34,F, new york, usa,77001
+40,276762,30,M, california, usa,98101
+41,276762,37,F, wisconsin, usa,80201
+42,276762,18,F, wisconsin, distrito federal,75201
+43,276762,20,M, north carolina, usa,46201
+44,276762,41,F, north carolina, germany,2101
+45,276762,54,M, baden-wuerttemberg, germany,2101
+46,276762,42,M, veneto, italy,75201
+47,276762,50,M, illinois, usa,2101
+48,276762,39,M, rome, italy,75201
+49,276762,19,F, england, united kingdom,92101
+50,276762,42,M, washington, usa,85001
+51,276762,44,M, niedersachsen, germany,46201
+52,276762,26,M, washington, usa,46201
+53,276762,53,F, kentucky, usa,46201
+54,276762,47,M, alberta, canada,43201
+55,276762,36,M, wyoming, usa,20001
+56,276762,20,M, lazio, italy,28201
+57,276762,25,F, alberta, canada,73301
+58,276765,32,M, north carolina, usa,32099
+59,276768,57,M, friuli venezia giulia, italy,97201
+60,276772,57,F, alabama, usa,33101
+61,276772,28,M, washington, usa,78201
+62,276772,35,F, new york, usa,60601
+63,276772,13,M, rhone, france,77001
+64,276772,24,M, north carolina, australia,98101
+65,276774,58,M, saskatchewan, canada,80201
+66,276774,49,F, massachusetts, usa,20001
+67,276774,24,F, quebec, canada,28201
+68,276774,28,M, british columbia, canada,73301
+69,276774,47,F, new york, usa,32099
+70,276780,38,M, ontario, canada,94101
+71,276780,45,F, england, united kingdom,92101
+72,276780,28,M, missouri, usa,95101
+73,276786,35,M, north carolina, netherlands,90001
+74,276786,24,F, california, usa,10001
+75,276786,26,M, south carolina, usa,60601
+76,276786,62,F, british columbia, canada,19101
+77,276786,63,M, california, usa,78201
+78,276786,25,F, ontario, canada,92101
+79,276786,26,M, ontario, canada,90001
+80,276786,24,M, california, usa,10001
+81,276786,20,F, california, usa,60601
+82,276786,36,F, oregon, usa,19101
+83,276786,38,F, california, usa,78201
+84,276786,20,F, england, united kingdom,92101
+85,276788,27,M, california, usa,90001
+86,276788,33,F, texas, usa,10001
+87,276788,62,M, georgia, usa,60601
+88,276796,20,M, texas, usa,46201
+89,276796,44,F, virginia, usa,43201
+90,276798,29,F, virginia, usa,46201
+91,276798,66,M, wisconsin, usa,2101
+92,276798,31,F, tehran, iraq,94101
+93,276798,34,F, new york, usa,2101
+94,276798,46,M, alaska, finland,85001
+95,276798,28,F, pennsylvania, usa,85001
+96,276798,36,F, auckland, new zealand,85001
+97,276798,27,F, colorado, usa,94101
+98,276798,17,M, colorado, spain,90001
+99,276798,29,M, colorado, india,77001
+100,276798,17,F,d.f, spain,75201
+101,276798,31,M, arizona, usa,77001
+102,276800,33,M, massachusetts, usa,75201
+103,276800,40,M, england, united kingdom,77001
+104,276800,23,F, georgia, usa,77001
+105,276800,23,M, alberta, canada,95101
+106,276800,33,M, oklahoma, usa,43201
+107,276800,21,M, indiana, usa,94101
+108,276803,38,F, illinois, usa,94101
+109,276804,27,M, v.n. gaia, portugal,95101
+110,276804,28,M, d.f., mexico,94101
+111,276804,15,F, california, usa,95101
+112,276806,23,M, pennsylvania, usa,28201
+113,276806,60,F, ohio, usa,73301
+114,276808,21,M, washington, usa,27601
+115,276811,54,M, michigan, usa,73301
+116,276812,21,M, hessen, ghana,94101
+117,276813,21,F, vermont, usa,90001
+118,276813,27,F, nord, france,10001
+119,276813,20,M, minnesota, usa,60601
+120,276813,42,F, north carolina, usa,19101
+121,276813,41,M, michigan, usa,78201
+122,276813,0,F, nebraska, usa,92101
+123,276813,79,M, michigan, usa,90001
+124,276813,41,M, noord-brabant, netherlands,10001
+125,276813,22,F, noord-brabant, switzerland,60601
+126,276813,16,M, pennsylvania, usa,19101
+127,276813,25,F, minnesota, usa,78201
+128,276813,22,M, lazio, italy,92101
+129,276814,27,F, north carolina, usa,90001
+130,276814,23,M, maryland, usa,10001
+131,276814,20,M, florida, usa,60601
+132,276817,37,F, australian capital territory, australia,46201
+133,276820,31,F, new york, usa,43201
+134,276820,16,F, california, usa,46201
+135,276822,23,F, british columbia, canada,2101
+136,276822,15,M, california, usa,94101
+137,276822,29,F, maryland, usa,2101
+138,276822,25,M, baden-wuerttemberg, germany,85001
+139,276822,54,M, new york, usa,85001
+140,276822,65,F, kansas, usa,85001
+141,276822,28,F, california, usa,94101
+142,276822,24,M, missouri, usa,90001
+143,276822,32,F, scotland, united kingdom,77001
+144,276822,45,F, california, usa,75201
+145,276822,51,M, new york, usa,77001
+146,276822,45,F, england, united kingdom,75201
+147,276822,28,F, england, slovenia,77001
+148,276822,23,F, islam, iran,77001
+149,276822,24,M, northern territory, australia,95101
+150,276822,29,M, overijssel, netherlands,43201
+151,276827,22,F, nord of france, france,94101
+152,276828,20,M, saskatchewan, canada,94101
+153,276828,26,M, abruzzo, peru,95101
+154,276828,15,M, abruzzo, bosnia and herzegovina,94101
+155,276828,21,F, lombardia, italy,95101
+156,276828,31,M, baden-wuerttemberg, germany,28201
+157,276828,35,M, minnesota, usa,73301
+158,276828,17,M, minnesota, portugal,27601
+159,276828,19,F, lisboa, portugal,73301
+160,276828,15,M, delaware, usa,94101
+161,276828,22,M, california, vietnam,90001
+162,276828,25,F, chiapas, mexico,10001
+163,276828,28,M, washington, usa,60601
+164,276828,21,F, victoria, australia,19101
+165,276830,27,M, montana, usa,78201
+166,276832,42,M, california, usa,92101
+167,276832,32,M, virginia, usa,90001
+168,276833,53,F, georgia, usa,10001
+169,276835,24,F, sao paulo, brazil,60601
+170,276837,27,M, rio de janeiro, brazil,19101
+171,276838,53,F, iowa, usa,78201
+172,276840,30,M, central, sri lanka,92101
+173,276840,26,F, central, portugal,90001
+174,276842,34,M, london, united kingdom,10001
+175,276847,28,M, london, netherlands,60601
+176,276847,23,F, new york, usa,46201
+177,276847,41,M, punjab, pakistan,43201
+178,276847,37,F, sindh, denmark,46201
+179,276847,24,M, sindh, pakistan,2101
+180,276847,23,F, frysln, netherlands,94101
+181,276847,33,M, porto, portugal,2101
+182,276847,21,M, washington, usa,85001
+183,276847,60,F, louisiana, usa,85001
+184,276847,59,F, north carolina, usa,85001
+185,276847,23,F, washington, usa,94101
+186,276847,27,F, oregon, usa,90001
+187,276847,27,M, washington, belgium,77001
+188,276847,27,F, brussels, belgium,75201
+189,276847,17,M, berlin, germany,77001
+190,276847,20,M, california, usa,75201
+191,276847,15,F, maharashtra, india,77001
+192,276847,50,F, illinois, usa,77001
+193,276847,28,M, arizona, usa,95101
+194,276847,25,F, selangor darul ehsan, malaysia,43201
+195,276847,27,F, ontario, canada,94101
+196,276847,29,M, bayern, germany,94101
+197,276847,34,F, texas, usa,95101
+198,276847,28,F, scotland, united kingdom,94101
+199,276847,41,F, sharjah, u.a.e,95101
+200,276847,29,M, ontario, canada,28201
+201,276847,33,M, south carolina, usa,73301
+202,276847,25,F, oregon, usa,27601
+203,276847,63,M, victoria, turkey,73301
+204,276847,45,M, ile de france, france,94101
+205,276847,35,M, wisconsin, usa,90001
+206,276847,22,F, bremen, germany,10001
+207,276847,45,M, selangor, malaysia,60601
+208,276847,28,M, new york, usa,19101
+209,276847,35,M, lleida, spain,78201
+210,276847,57,F, lleida, philippines,92101
+211,276847,47,M, florida, usa,90001
+212,276847,23,M, colorado, usa,10001
+213,276847,20,F, british columbia, canada,60601
+214,276847,17,M, georgia, spain,19101
+215,276847,35,F, massachusetts, usa,78201
+216,276847,22,M, alabama, india,92101
+217,276847,48,M, sachsen-anhalt, greece,90001
+218,276847,44,M, bogota, colombia,10001
+219,276847,24,F, florida, usa,60601
+220,276847,25,F, massachusetts, usa,46201
+221,276847,24,M, punjab, pakistan,43201
+222,276847,50,F, missouri, usa,46201
+223,276847,41,M, texas, usa,2101
+224,276847,28,F, new york, usa,94101
+225,276847,19,M, bucks, united kingdom,2101
+226,276848,37,M, michigan, usa,85001
+227,276848,37,F, delhi, india,85001
+228,276848,17,M, new york, usa,85001
+229,276848,50,F, maharashtra, india,94101
+230,276848,40,M, maharashtra, india,90001
+231,276848,27,F, pirkanmaa, finland,77001
+232,276848,17,M, pirkanmaa, finland,75201
+233,276848,34,M, lisboa, portugal,77001
+234,276848,31,F, california, usa,75201
+235,276848,14,F, minnesota, usa,77001
+236,276848,14,F, surrey, united kingdom,77001
+237,276848,47,F, texas, usa,95101
+238,276848,23,M, queensland, australia,43201
+239,276848,29,F, alabama, usa,94101
+240,276850,32,M, baden-wuerttemberg, germany,94101
+241,276852,25,M, minnesota, usa,95101
+242,276852,40,F, texas, usa,94101
+243,276853,48,F, california, usa,95101
+244,276853,34,M, rogaland, norway,28201
+245,276854,16,F, athens, greece,73301
+246,276854,24,F, british columbia, canada,27601
+247,276854,47,M, noord-holland, netherlands,73301
+248,276856,40,F, minnesota, usa,94101
+249,276856,22,F, castilla y leon, spain,90001
+250,276856,31,F, kuwait, kuwait,10001
+251,276856,33,M, lombardia, italy,60601
+252,276856,50,M, minnesota, usa,19101
+253,276856,54,F, alabama, chile,78201
+254,276856,31,M, massachusetts, usa,92101
+255,276856,62,M, quit, quit,90001
+256,276856,17,M, north carolina, usa,10001
+257,276856,37,F, north carolina, usa,60601
+258,276856,15,M, minnesota, usa,19101
+259,276856,18,M, baden-wuerttemberg, germany,78201
+260,276856,20,M, illinois, usa,92101
+261,276856,24,F, texas, usa,90001
+262,276856,18,M, north carolina, usa,10001
+263,276856,0,M, north carolina, usa,60601
+264,276856,31,F, alberta, canada,46201
+265,276856,25,M, ohio, usa,43201
+266,276856,34,F, alberta, canada,46201
+267,276856,45,M, jylland, denmark,2101
+268,276856,13,M, rheinland-pfalz, germany,94101
+269,276856,62,M, pakistan, pakistan,2101
+270,276857,46,F, washington, usa,85001
+271,276859,72,F, washington, usa,85001
+272,276859,17,M, emilia romagna, italy,85001
+273,276859,51,F, alberta, canada,94101
+274,276859,31,M, oregon, usa,90001
+275,276859,25,F, new south wales, australia,77001
+276,276859,26,M, illinois, usa,75201
+277,276859,60,M, england, united kingdom,77001
+278,276859,29,F, washington, usa,75201
+279,276859,51,M, sachsen, germany,77001
+280,276859,51,F, british columbia, canada,77001
+281,276859,29,M, washington, usa,95101
+282,276859,62,F, barcelona, spain,43201
+283,276859,17,M, cambridgeshire, united kingdom,94101
+284,276859,47,M, washington, usa,94101
+285,276859,40,F, california, usa,95101
+286,276859,29,F, maine, usa,94101
+287,276859,51,F, florida, usa,95101
+288,276859,29,F, ohio, usa,28201
+289,276861,58,M, colorado, usa,73301
+290,276861,30,F, arizona, usa,27601
+291,276861,24,M, manitoba, canada,73301
+292,276861,22,M, california, usa,94101
+293,276861,23,F, maryland, usa,90001
+294,276861,43,F, lleida, spain,10001
+295,276861,43,M, california, usa,60601
+296,276861,41,F, california, usa,19101
+297,276861,50,F, paris, france,78201
+298,276861,41,M, virginia, usa,92101
+299,276861,41,F, michigan, usa,90001
+300,276861,43,F, california, usa,10001
+301,276861,47,F, california, usa,60601
+302,276862,48,M, hawaii, usa,19101
+303,276862,52,M, california, usa,78201
+304,276862,56,F, massachusetts, usa,92101
+305,276863,47,M, uusimaa, finland,90001
+306,276866,43,M, yukon territory, espana,10001
+307,276866,46,M, england, united kingdom,60601
+308,276866,47,F, england, united kingdom,46201
+309,276866,47,M, england, united kingdom,43201
+310,276866,55,M, north carolina, usa,46201
+311,276866,52,M, north carolina, denmark,2101
+312,276866,48,F, stockholm, sweden,94101
+313,276866,71,M, saskatchewan, canada,2101
+314,276866,41,M, north carolina, usa,85001
+315,276866,54,F, north carolina, usa,85001
+316,276866,54,M, minnesota, usa,85001
+317,276866,58,F, punjab, pakistan,94101
+318,276866,52,M, yukon territory, norway,90001
+319,276866,41,M, washington, usa,77001
+320,276866,78,M, bukidnon, philippines,75201
+321,276866,41,F, mittelland, switzerland,77001
+322,276866,55,F, missouri, usa,75201
+323,276866,55,M, texas, usa,77001
+324,276866,46,F, idaho, usa,77001
+325,276866,59,M, sindh, pakistan,95101
+326,276869,54,F, sindh, philippines,43201
+327,276869,54,M, buenos aires, argentina,94101
+328,276870,43,M, oregon, usa,94101
+329,276872,56,F, alberta, spain,95101
+330,276872,58,M, alberta, finland,94101
+331,276872,47,F, emilia romagna, italy,95101
+332,276872,50,M, vizcaya, spain,28201
+333,276872,52,F, vizcaya, spain,73301
+334,276872,56,M, minnesota, usa,27601
+335,276872,54,M, pirkanmaa, finland,73301
+336,276872,41,F, cebu, philippines,94101
+337,276873,56,F, ile de france, france,90001
+338,276875,78,F, niedersachsen, nigeria,10001
+339,276875,50,F, arizona, usa,60601
+340,276875,43,M, england, united kingdom,19101
+341,276875,41,F, tennessee, usa,78201
+342,276875,48,M, quebec, canada,92101
+343,276875,46,M, quebec, canada,90001
+344,276875,47,F, california, usa,10001
+345,276875,56,F, california, denmark,60601
+346,276875,41,M, toscana, italy,19101
+347,276875,46,F, turkey, turkey,78201
+348,276875,43,F, connecticut, usa,92101
+349,276875,55,M, connecticut, spain,90001
+350,276875,50,F, minas gerais, brazil,10001
+351,276875,54,F, uk, london,60601
+352,276875,73,F, virginia, usa,46201
+353,276875,48,M, england, united kingdom,43201
+354,276875,50,M, california, usa,46201
+355,276875,54,F, california, usa,2101
+356,276875,59,M, barcelona, spain,94101
+357,276875,48,M, barcelona, spain,2101
+358,276875,43,M, ontario, canada,85001
+359,276875,52,F, baden-wuerttemberg, germany,85001
+360,276875,54,M, beira litoral, portugal,85001
+361,276875,43,M, europe, italy,94101
+362,276875,50,M, alberta, bulgaria,90001
+363,276875,48,F, california, usa,77001
+364,276875,43,M, virginia, usa,75201
+365,276875,41,M, kansas, usa,77001
+366,276875,47,F, california, usa,75201
+367,276875,50,M, b.c.s., mexico,77001
+368,276875,47,F, bayern, germany,77001
+369,276875,52,M, vienna, austria,95101
+370,276875,41,M, niedersachsen, germany,43201
+371,276875,59,M, sachsen, germany,94101
+372,276875,58,F, indiana, usa,94101
+373,276875,47,F, klang, malaysia,95101
+374,276875,43,M, california, usa,94101
+375,276875,46,F, british columbia, canada,95101
+376,276875,47,M, texas, usa,28201
+377,276875,41,F, florida, usa,73301
+378,276875,56,M, kansas, usa,27601
+379,276875,46,M, california, usa,73301
+380,276878,43,F, california, romania,94101
+381,276879,43,M, california, france,90001
+382,276884,48,F, tehran, iran,10001
+383,276884,52,M, missouri, usa,60601
+384,276884,46,F, tennessee, usa,19101
+385,276884,43,M, catalunya, spain,78201
+386,276884,71,M, west virginia, usa,92101
+387,276887,50,F, texas, usa,90001
+388,276887,59,F, catalunya, spain,10001
+389,276887,41,F, east sussex, united kingdom,60601
+390,276888,41,F, calabria, united kingdom,19101
+391,276888,55,M, calabria, spain,78201
+392,276889,41,F, stockholm, sweden,92101
+393,276890,47,M, almada, portugal,90001
+394,276896,47,M, wellington region, new zealand,10001
+395,276904,43,F, fct abuja, nigeria,60601
+396,276904,54,F, missouri, usa,46201
+397,276904,56,M, buenos aires, argentina,43201
+398,276904,55,F, england, united kingdom,46201
+399,276904,48,F, michigan, usa,2101
+400,276904,22,F, michigan, usa,94101
